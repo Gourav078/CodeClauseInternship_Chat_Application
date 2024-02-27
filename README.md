@@ -1,5 +1,4 @@
 # CodeClauseInternship_Chat_Application
-Real time Chat Application.
 Project - Chat Application with Real-Time Messaging 🌟
 🌟 Project Overview:
 Embarked on an exciting journey to design and develop a chat application with real-time messaging capabilities using HTML, Node.js, WebSocket, and CSS.
